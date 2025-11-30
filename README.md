@@ -33,7 +33,7 @@ sudo ./install_quic_client.sh
 
 This script will:
 
-1. Clone or update the repository from GitHub (`https://github.com/liebenA/quic-client`);
+1. Clone or update the repository from GitHub (`https://github.com/liebenA/quic-client-linux`);
 2. Run installation of `quic-client`;
 3. Set up an automatic task (cron) to repeat the tests every two hours.
 
